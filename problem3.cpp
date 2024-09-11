@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     float t;
     cin>>t;
-    float f = t*9/5+32;
+    float f = t*1.8+32;
     cout<<f<<endl;
     return 0;
 }
