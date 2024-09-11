@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     float t;
     cin>>t;
-    float f = t*1.8+32;
-    cout<<f<<endl;
+    float f = t*9/5+32;
+    cout<<"The temperature in Farenheit is equal to "<<f<<endl;
     return 0;
 }
